@@ -1,5 +1,4 @@
 # DSTPravitePod
-
 [![CI Status](https://img.shields.io/travis/LYMelody/DSTPravitePod.svg?style=flat)](https://travis-ci.org/LYMelody/DSTPravitePod)
 [![Version](https://img.shields.io/cocoapods/v/DSTPravitePod.svg?style=flat)](https://cocoapods.org/pods/DSTPravitePod)
 [![License](https://img.shields.io/cocoapods/l/DSTPravitePod.svg?style=flat)](https://cocoapods.org/pods/DSTPravitePod)
@@ -27,3 +26,7 @@ LYMelody, zhouhuiping@souche.com
 ## License
 
 DSTPravitePod is available under the MIT license. See the LICENSE file for more info.
+=======
+第一个私有库
+
+
