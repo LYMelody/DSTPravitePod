@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DSTPravitePod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DSTPravitePod.'
+  s.summary          = '就是简单测试下私有库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'DSTPravitePod/Classes/**/*'
-  
+  s.swift_version = '4.0'
   # s.resource_bundles = {
   #   'DSTPravitePod' => ['DSTPravitePod/Assets/*.png']
   # }
