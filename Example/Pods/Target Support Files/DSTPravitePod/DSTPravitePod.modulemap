@@ -1,0 +1,6 @@
+framework module DSTPravitePod {
+  umbrella header "DSTPravitePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - DSTPravitePod (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DSTPravitePod (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DSTPravitePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSTPravitePod: cc2d88f3e7a0e9ecb6e0c16329bb573d1eaa82d8
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 6cb113b0466874bfd972085ec2a112b8579c70b1
+
+COCOAPODS: 1.5.0.beta.1

@@ -1,0 +1,6 @@
+framework module Pods_DSTPravitePod_Example {
+  umbrella header "Pods-DSTPravitePod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

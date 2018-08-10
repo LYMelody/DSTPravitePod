@@ -1,0 +1,22 @@
+{
+  "name": "DSTPravitePod",
+  "version": "0.1.0",
+  "summary": "A short description of DSTPravitePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LYMelody/DSTPravitePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LYMelody": "zhouhuiping@souche.com"
+  },
+  "source": {
+    "git": "https://github.com/LYMelody/DSTPravitePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DSTPravitePod/Classes/**/*"
+}
