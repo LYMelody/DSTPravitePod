@@ -10,27 +10,26 @@
 		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */; };
-		22BF18FFC3D1F2EA5A7C7FB9DD86E9F3 /* DSTPravitePod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E89FB226490BBF04357D511FE40F957 /* DSTPravitePod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		35AB9D65ACA177FC9FC31ED45162EE81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
-		37749A6E8C0328CBF2DB5ED56E0FA5C4 /* DSTPravitePod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE64F86AD6AA72CA5629B758A211651 /* DSTPravitePod-dummy.m */; };
 		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		4608109546B4ADB9D4F29F49B7D603DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */; };
-		5820AD8B211DBE7D0096B6E8 /* DSTNightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820AD8A211DBE7D0096B6E8 /* DSTNightView.swift */; };
 		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */; };
 		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */; };
+		7C2935044E585EA83B9030D7F57649D3 /* DSTNightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5956CF58687CB991E511D1A8C09AD2DD /* DSTNightView.swift */; };
 		7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */; };
 		841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */; };
 		8B30E1116B42B4DC2D27EAF0C1036D14 /* Pods-DSTPravitePod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C0F4C592A455B2243252BAD8240BEEC /* Pods-DSTPravitePod_Example-dummy.m */; };
-		8C282BD0C352DDC325BD2719E2B7CA47 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9DEA2D705777ED5336F1BC0DB03F45 /* ReplaceMe.swift */; };
 		91D0138ACFAD733E4061F12E450C336C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		98A268F834892578F7F77B913C63375F /* Pods-DSTPravitePod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A913D1BED47B9A424A69D5D0AC944729 /* Pods-DSTPravitePod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		997F65D0EF6FD8CB71AE69474A71A2B1 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFC246E6F3203CB0ECA79776D7221870 /* ReplaceMe.swift */; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
 		A971789684A8BDCB3FA74B5BC202D73F /* Pods-DSTPravitePod_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B812D69D6D2BA8B726572B654B691CFB /* Pods-DSTPravitePod_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A27810809BAD71E4022600B21251449F /* QuartzCore.framework */; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BA7E0E6BA3E1F49BC2E99DC9CBE0C404 /* DSTPravitePod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4FD0EB6B86361CDD378C0000979AA0F /* DSTPravitePod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -39,6 +38,7 @@
 		D7E4AEACE141E640D3F83FB48C9FD7CC /* Pods-DSTPravitePod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D9F86EEB1CD98494A4198EC631B4097 /* Pods-DSTPravitePod_Tests-dummy.m */; };
 		DA32FF729FA55BC2832FAFBC808CF7AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
+		DEC3B80B60DC3C784ED7DF78AAF27CFA /* DSTPravitePod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D8A83D8188F46CCEC7A0E34AD5B35624 /* DSTPravitePod-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +46,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 58B39EE99174B274E3831390111A54C3;
+			remoteGlobalIDString = 2DF7C1E67C6FBF4F8309EFC607411901;
 			remoteInfo = DSTPravitePod;
 		};
 		F9E63C4D44DC44DB170565AA6687262B /* PBXContainerItemProxy */ = {
@@ -59,39 +59,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		032959A27AB2663E9FD2AA0180DCC08F /* Pods_DSTPravitePod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DSTPravitePod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		032959A27AB2663E9FD2AA0180DCC08F /* Pods_DSTPravitePod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DSTPravitePod_Tests.framework; path = "Pods-DSTPravitePod_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		0F4D1A542F5F43339706A8A42FEA010D /* DSTPravitePod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DSTPravitePod.modulemap; sourceTree = "<group>"; };
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		2091BCC728904F0671F884F9B9BC7D85 /* DSTPravitePod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DSTPravitePod.xcconfig; sourceTree = "<group>"; };
-		260A11748E40E0EB65FB1D055CEDB17A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		138CED8B03E934CB9BDDDE1016EBC442 /* DSTPravitePod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DSTPravitePod.modulemap; sourceTree = "<group>"; };
+		2BAD30FDFCAB54FDDE57A1C51D86DB02 /* DSTPravitePod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DSTPravitePod.xcconfig; sourceTree = "<group>"; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		33C12C1A66BB06D9858FE88AAFD9AD65 /* Pods-DSTPravitePod_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSTPravitePod_Tests-resources.sh"; sourceTree = "<group>"; };
 		39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
-		3E89FB226490BBF04357D511FE40F957 /* DSTPravitePod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSTPravitePod-umbrella.h"; sourceTree = "<group>"; };
 		3FB13ED82F3603987E28BE903C6D00F5 /* Pods-DSTPravitePod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSTPravitePod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
-		4A9DEA2D705777ED5336F1BC0DB03F45 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = DSTPravitePod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		5820AD8A211DBE7D0096B6E8 /* DSTNightView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSTNightView.swift; sourceTree = "<group>"; };
+		530CF470F90D52FE2C91B6317BEFA83B /* DSTPravitePod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSTPravitePod-prefix.pch"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		5956CF58687CB991E511D1A8C09AD2DD /* DSTNightView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSTNightView.swift; path = DSTPravitePod/Classes/DSTNightView.swift; sourceTree = "<group>"; };
 		608215EAF9829F6BF960A3C5BECEB9D0 /* Pods-DSTPravitePod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DSTPravitePod_Tests.modulemap"; sourceTree = "<group>"; };
 		60D04D719FCB2331429BC0FD1173A136 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		614BDA82D5CC0DD04E87AAEB30D84676 /* DSTPravitePod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = DSTPravitePod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6199B747CFF720855356A81129E4A02F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		67E276593855381568F725E69496F29C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7AE319242675E9649F77EA8F87873F65 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6A4D9DD198228CFE36F763B27DD924A9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
-		7B8C146D9B323B485362C0DA556F7709 /* Pods_DSTPravitePod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DSTPravitePod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B8C146D9B323B485362C0DA556F7709 /* Pods_DSTPravitePod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DSTPravitePod_Example.framework; path = "Pods-DSTPravitePod_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C0F4C592A455B2243252BAD8240BEEC /* Pods-DSTPravitePod_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DSTPravitePod_Example-dummy.m"; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8135C6697990DAEA0F3D995CE335EB7E /* Pods-DSTPravitePod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSTPravitePod_Example.release.xcconfig"; sourceTree = "<group>"; };
 		85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		8936AD5F34EF4EAF4037DA53DE0F709A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9801A976ADF522BEC4D7AE987FFD85C8 /* Pods-DSTPravitePod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DSTPravitePod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		987E21F5D65F82642AE063CF16EBE9C6 /* Pods-DSTPravitePod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSTPravitePod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9A6F66FD9151C782E3BE53541D7C3C93 /* Pods-DSTPravitePod_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSTPravitePod_Tests-frameworks.sh"; sourceTree = "<group>"; };
@@ -101,8 +98,8 @@
 		A89F7771CC5CFD1B7ED0731A56189987 /* Pods-DSTPravitePod_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSTPravitePod_Example-resources.sh"; sourceTree = "<group>"; };
 		A913D1BED47B9A424A69D5D0AC944729 /* Pods-DSTPravitePod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DSTPravitePod_Tests-umbrella.h"; sourceTree = "<group>"; };
 		AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		B67B7DCAD01AE593F38AA2B72ED48F75 /* DSTPravitePod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSTPravitePod-prefix.pch"; sourceTree = "<group>"; };
-		B69AA1383809698E437ECE0DB78682A9 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFC246E6F3203CB0ECA79776D7221870 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = DSTPravitePod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		B69AA1383809698E437ECE0DB78682A9 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B812D69D6D2BA8B726572B654B691CFB /* Pods-DSTPravitePod_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DSTPravitePod_Example-umbrella.h"; sourceTree = "<group>"; };
 		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
@@ -110,15 +107,18 @@
 		C182E87F178380C14D106676923BBE23 /* Pods-DSTPravitePod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSTPravitePod_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C4A7CA9BE182573D369C04B63FBDABCC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CBE64F86AD6AA72CA5629B758A211651 /* DSTPravitePod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DSTPravitePod-dummy.m"; sourceTree = "<group>"; };
 		D13DB1AC18B2B4DDAE6C2C7F617BA98B /* Pods-DSTPravitePod_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSTPravitePod_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D880370FBD527FD3333BFE268D6D2561 /* Pods-DSTPravitePod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DSTPravitePod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		D8A83D8188F46CCEC7A0E34AD5B35624 /* DSTPravitePod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DSTPravitePod-dummy.m"; sourceTree = "<group>"; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		DF06EEAA14978A4771B02DB63313678E /* Pods-DSTPravitePod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSTPravitePod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
+		E4FD0EB6B86361CDD378C0000979AA0F /* DSTPravitePod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSTPravitePod-umbrella.h"; sourceTree = "<group>"; };
+		E9C247AA9BD47028EE2D26CEBD3C82E1 /* DSTPravitePod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = DSTPravitePod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EF519A026B10AC73ABBE6E658308B29D /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
+		F0640B23909282B3B483BF55440075E9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		F10CBDEE32E5F6BDECFB3D41F7DD0B03 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
-		F1C54E17B90000C48FAE91C612A225E6 /* DSTPravitePod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DSTPravitePod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1C54E17B90000C48FAE91C612A225E6 /* DSTPravitePod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DSTPravitePod.framework; path = DSTPravitePod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDCD7120BDA28A89EF8AE71623E2BF55 /* Pods-DSTPravitePod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSTPravitePod_Example-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -131,6 +131,14 @@
 				B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */,
 				841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */,
 				7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6F842869301288D23121DCE924AC9473 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35AB9D65ACA177FC9FC31ED45162EE81 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,14 +155,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0000F5CFA5A276C04C9B0FAD54023C6 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FA9C46EB4E4DF45BB2C044BFD63968EF /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4608109546B4ADB9D4F29F49B7D603DD /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,7 +176,22 @@
 				3288FCB8E15F6401DE6220AE5CA1D27B /* Support Files */,
 				99E46DD4AB2256791F111C718CB0EEF8 /* SwiftSupport */,
 			);
+			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
+			sourceTree = "<group>";
+		};
+		267F03D8D2E19234779CC1B1FA25F32B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				138CED8B03E934CB9BDDDE1016EBC442 /* DSTPravitePod.modulemap */,
+				2BAD30FDFCAB54FDDE57A1C51D86DB02 /* DSTPravitePod.xcconfig */,
+				D8A83D8188F46CCEC7A0E34AD5B35624 /* DSTPravitePod-dummy.m */,
+				530CF470F90D52FE2C91B6317BEFA83B /* DSTPravitePod-prefix.pch */,
+				E4FD0EB6B86361CDD378C0000979AA0F /* DSTPravitePod-umbrella.h */,
+				6199B747CFF720855356A81129E4A02F /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/DSTPravitePod";
 			sourceTree = "<group>";
 		};
 		3288FCB8E15F6401DE6220AE5CA1D27B /* Support Files */ = {
@@ -191,16 +206,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/FBSnapshotTestCase";
-			sourceTree = "<group>";
-		};
-		3BE3030EAC29FEDDAD5386409937B93E /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				614BDA82D5CC0DD04E87AAEB30D84676 /* DSTPravitePod.podspec */,
-				7AE319242675E9649F77EA8F87873F65 /* LICENSE */,
-				260A11748E40E0EB65FB1D055CEDB17A /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		4813D32E5DA3A44922A8E461C00AED40 /* Pods-DSTPravitePod_Example */ = {
@@ -221,6 +226,16 @@
 			path = "Target Support Files/Pods-DSTPravitePod_Example";
 			sourceTree = "<group>";
 		};
+		4F63E861BCB2B0C4D255D01CB21B5A46 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				E9C247AA9BD47028EE2D26CEBD3C82E1 /* DSTPravitePod.podspec */,
+				6A4D9DD198228CFE36F763B27DD924A9 /* LICENSE */,
+				F0640B23909282B3B483BF55440075E9 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		4FE4787EDBD8274432CC72F732AE70C7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -236,12 +251,20 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				BA7D754CB77076BFA8DB8BD9B17B0B00 /* Development Pods */,
+				87E901539257DE34A60D1213FCB04EB9 /* Development Pods */,
 				14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */,
 				FBD2D672921284E66F309CA3462F84D6 /* Pods */,
 				4FE4787EDBD8274432CC72F732AE70C7 /* Products */,
 				D881D48A7D51C43AE770E9F5E9D3240D /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		87E901539257DE34A60D1213FCB04EB9 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B64E2A5E341AA73A45FFB3CDD82BF7ED /* DSTPravitePod */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		8D22B0D091B0427E43C82354D9CA8E06 /* iOS */ = {
@@ -255,18 +278,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		8DF65046B95DACA6753C4D2E65E91E1A /* DSTPravitePod */ = {
-			isa = PBXGroup;
-			children = (
-				5820AD8A211DBE7D0096B6E8 /* DSTNightView.swift */,
-				4A9DEA2D705777ED5336F1BC0DB03F45 /* ReplaceMe.swift */,
-				3BE3030EAC29FEDDAD5386409937B93E /* Pod */,
-				E2D42AA6FE8DC4E9F06A04198D94175C /* Support Files */,
-			);
-			name = DSTPravitePod;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		99E46DD4AB2256791F111C718CB0EEF8 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
@@ -275,12 +286,16 @@
 			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
-		BA7D754CB77076BFA8DB8BD9B17B0B00 /* Development Pods */ = {
+		B64E2A5E341AA73A45FFB3CDD82BF7ED /* DSTPravitePod */ = {
 			isa = PBXGroup;
 			children = (
-				8DF65046B95DACA6753C4D2E65E91E1A /* DSTPravitePod */,
+				5956CF58687CB991E511D1A8C09AD2DD /* DSTNightView.swift */,
+				AFC246E6F3203CB0ECA79776D7221870 /* ReplaceMe.swift */,
+				4F63E861BCB2B0C4D255D01CB21B5A46 /* Pod */,
+				267F03D8D2E19234779CC1B1FA25F32B /* Support Files */,
 			);
-			name = "Development Pods";
+			name = DSTPravitePod;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		D881D48A7D51C43AE770E9F5E9D3240D /* Targets Support Files */ = {
@@ -290,20 +305,6 @@
 				EACD280F7AD3B8D77E3A6B7BB87A95D9 /* Pods-DSTPravitePod_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		E2D42AA6FE8DC4E9F06A04198D94175C /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0F4D1A542F5F43339706A8A42FEA010D /* DSTPravitePod.modulemap */,
-				2091BCC728904F0671F884F9B9BC7D85 /* DSTPravitePod.xcconfig */,
-				CBE64F86AD6AA72CA5629B758A211651 /* DSTPravitePod-dummy.m */,
-				B67B7DCAD01AE593F38AA2B72ED48F75 /* DSTPravitePod-prefix.pch */,
-				3E89FB226490BBF04357D511FE40F957 /* DSTPravitePod-umbrella.h */,
-				8936AD5F34EF4EAF4037DA53DE0F709A /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/DSTPravitePod";
 			sourceTree = "<group>";
 		};
 		EACD280F7AD3B8D77E3A6B7BB87A95D9 /* Pods-DSTPravitePod_Tests */ = {
@@ -387,17 +388,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E8E5A7B9B02D833A672F53A208852454 /* Headers */ = {
+		EBD5CFEBA8BAA2277ECBA537B62B5038 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22BF18FFC3D1F2EA5A7C7FB9DD86E9F3 /* DSTPravitePod-umbrella.h in Headers */,
+				BA7E0E6BA3E1F49BC2E99DC9CBE0C404 /* DSTPravitePod-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		2DF7C1E67C6FBF4F8309EFC607411901 /* DSTPravitePod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEE0273A127049166875D4BCEE71E475 /* Build configuration list for PBXNativeTarget "DSTPravitePod" */;
+			buildPhases = (
+				0CCED9AD7EA5951E40EE07F3BC4BA69D /* Sources */,
+				6F842869301288D23121DCE924AC9473 /* Frameworks */,
+				EBD5CFEBA8BAA2277ECBA537B62B5038 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DSTPravitePod;
+			productName = DSTPravitePod;
+			productReference = F1C54E17B90000C48FAE91C612A225E6 /* DSTPravitePod.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F28097D43AF5CD8DA838ABD52A053790 /* Build configuration list for PBXNativeTarget "FBSnapshotTestCase" */;
@@ -451,23 +469,6 @@
 			productReference = 032959A27AB2663E9FD2AA0180DCC08F /* Pods_DSTPravitePod_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		58B39EE99174B274E3831390111A54C3 /* DSTPravitePod */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 709D38E7028C244D0AAED56108BC49C2 /* Build configuration list for PBXNativeTarget "DSTPravitePod" */;
-			buildPhases = (
-				079B15B309D1E0E63B3CAD15497C9660 /* Sources */,
-				FA9C46EB4E4DF45BB2C044BFD63968EF /* Frameworks */,
-				E8E5A7B9B02D833A672F53A208852454 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = DSTPravitePod;
-			productName = DSTPravitePod;
-			productReference = F1C54E17B90000C48FAE91C612A225E6 /* DSTPravitePod.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -489,7 +490,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				58B39EE99174B274E3831390111A54C3 /* DSTPravitePod */,
+				2DF7C1E67C6FBF4F8309EFC607411901 /* DSTPravitePod */,
 				34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */,
 				4AEBD99B547BE48C782289916234F750 /* Pods-DSTPravitePod_Example */,
 				53068BC68D7FAB175A724019A5A6751A /* Pods-DSTPravitePod_Tests */,
@@ -498,13 +499,13 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		079B15B309D1E0E63B3CAD15497C9660 /* Sources */ = {
+		0CCED9AD7EA5951E40EE07F3BC4BA69D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37749A6E8C0328CBF2DB5ED56E0FA5C4 /* DSTPravitePod-dummy.m in Sources */,
-				5820AD8B211DBE7D0096B6E8 /* DSTNightView.swift in Sources */,
-				8C282BD0C352DDC325BD2719E2B7CA47 /* ReplaceMe.swift in Sources */,
+				7C2935044E585EA83B9030D7F57649D3 /* DSTNightView.swift in Sources */,
+				DEC3B80B60DC3C784ED7DF78AAF27CFA /* DSTPravitePod-dummy.m in Sources */,
+				997F65D0EF6FD8CB71AE69474A71A2B1 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -552,15 +553,15 @@
 		493AB8688360B5E0BAE0BB291427A79F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = DSTPravitePod;
-			target = 58B39EE99174B274E3831390111A54C3 /* DSTPravitePod */;
+			target = 2DF7C1E67C6FBF4F8309EFC607411901 /* DSTPravitePod */;
 			targetProxy = 3FDC689EEF5265AA41A96AD638E8FA0C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0C750F56316913DB8679D371D26F07DE /* Release */ = {
+		08251D4A64FFD76DA84F1E6D479660D1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2091BCC728904F0671F884F9B9BC7D85 /* DSTPravitePod.xcconfig */;
+			baseConfigurationReference = 2BAD30FDFCAB54FDDE57A1C51D86DB02 /* DSTPravitePod.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -582,14 +583,13 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		2258AF1D6B2AA804FC56DDF72958C25F /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -727,38 +727,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		723D8045BF72B3388220209D33E4BF76 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2091BCC728904F0671F884F9B9BC7D85 /* DSTPravitePod.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/DSTPravitePod/DSTPravitePod-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/DSTPravitePod/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/DSTPravitePod/DSTPravitePod.modulemap";
-				PRODUCT_MODULE_NAME = DSTPravitePod;
-				PRODUCT_NAME = DSTPravitePod;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -949,6 +917,39 @@
 			};
 			name = Release;
 		};
+		F06EF4312DC132FA1C7021165C9170D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BAD30FDFCAB54FDDE57A1C51D86DB02 /* DSTPravitePod.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/DSTPravitePod/DSTPravitePod-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/DSTPravitePod/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/DSTPravitePod/DSTPravitePod.modulemap";
+				PRODUCT_MODULE_NAME = DSTPravitePod;
+				PRODUCT_NAME = DSTPravitePod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -970,20 +971,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		709D38E7028C244D0AAED56108BC49C2 /* Build configuration list for PBXNativeTarget "DSTPravitePod" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				723D8045BF72B3388220209D33E4BF76 /* Debug */,
-				0C750F56316913DB8679D371D26F07DE /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		A4C860D15886BCA7B64F8B882819FF79 /* Build configuration list for PBXNativeTarget "Pods-DSTPravitePod_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				506A569194FED33B69407637A67A2037 /* Debug */,
 				2258AF1D6B2AA804FC56DDF72958C25F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEE0273A127049166875D4BCEE71E475 /* Build configuration list for PBXNativeTarget "DSTPravitePod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				08251D4A64FFD76DA84F1E6D479660D1 /* Debug */,
+				F06EF4312DC132FA1C7021165C9170D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
